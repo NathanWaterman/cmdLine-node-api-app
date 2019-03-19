@@ -1,0 +1,14 @@
+{
+  "name": "weather_api_app",
+  "version": "1.0.0",
+  "description": "testing Node API with weather API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nate",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
